@@ -1,0 +1,17 @@
+{
+    "name": "Mikheil/contact",
+    "description": "This will send email to admin and save contact query in Database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Mikheil",
+        "email": "m.chekhashvili@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mikheil\\Contact\\": "src/"
+        }
+    }
+}
